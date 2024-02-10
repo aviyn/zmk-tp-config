@@ -122,7 +122,7 @@
 
   &mouse_ps2_config {
     // xy-swap;
-    x-invert;
+    // x-invert;
     y-invert;
 
     // Set the layer that should automatically activate when the mouse is
