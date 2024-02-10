@@ -121,7 +121,7 @@
   */
 
   &mouse_ps2_config {
-    xy-swap;
+    // xy-swap;
     x-invert;
     y-invert;
 
